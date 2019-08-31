@@ -93,10 +93,10 @@ sleep 1
 clear
 echo
 echo $cy"======================================================"
-echo $i"###"$pu"  AUTHOR  :  DeNDevils.               "$i" ###"
-echo $i"###"$pu"  WhatsApp:  083874961264.            "$i" ###"
-echo $i"###"$pu"  GMAIL   :  vandeta404@gmail.com.    "$i" ###"
-echo $i"###"$pu"  TEAM    :  ACTION INFINITY TEAM.    "$i" ###"
+echo.     AUTHOR  :  ZYCRON            
+echo.     WhatsApp:  083874961264.           
+echo.     GMAIL   :  vandeta404@gmail.com
+echo      TEAM    :  ACTION INFINITY TEAM
 echo $cy"======================================================"
 echo
 echo $i"MENU PILIHAN:"
@@ -264,7 +264,6 @@ echo $i"Silahkan di pakai semoga bermanfaat Buat anda"
 sleep 2
 echo $pur"Bila Ada Kesalahan Anda Bisa Nanya Melalui Via"
 sleep 2
-echo $ku"Facebook :"$i" DeNDevils"
 echo $ku"WhatsApp :"$i" 083874961264"
 sleep 2
 echo $pur"Terima kasih Yang Sudah Support dengan Tools ini"
