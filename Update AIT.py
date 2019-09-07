@@ -4,7 +4,7 @@ print ("\033[1;32mSilahkan Masukkan Username & Password Anda")
 
 print ("\033[1;32matau silahkan Hubungi Mr.DeNDevils :083874961264")
 
-username = 'DeNDevils'      
+username = 'ZYCRON'      
 
 password = 'GreyHat'
 
