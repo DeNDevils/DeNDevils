@@ -1,21 +1,20 @@
-
 import marshal, os, time
 
 banner=("""\033[1;36m
 
          \033[1;32m»COMPILER PYTHON«\033[1;36m
 
-                         _\033[1;31m
-                        |_|    _\033[1;31m    
-                        |_|   |_|\033[1;31m
-                     _  |_|_ _|_|\033[1;31m
-                    \_\_|_|_|_|_|\033[1;31m
-                     \  |_|_|_|_|\033[1;31m
-                      \_        /\033[1;31m 
+                         _
+                        |_|    _ 
+                        |_|   |_|
+                     _  |_|_ _|_|
+                    \_\_|_|_|_|_|
+                     \  |_|_|_|_|
+                      \_        /
 
 
-\033[1;31mGithub :https://github.com/ZYCRON
-\033[1;31mContact:https://wa.me/6283874961264\033[1;36m
+Github : https://github.com/ZYCRON
+Contact: https://wa.me/6283874961264\033[1;36m
 """)
 def py():
 	try:
