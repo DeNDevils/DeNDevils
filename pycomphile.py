@@ -61,7 +61,7 @@ print("\033[1;32m[1] Python3")
 print("[2] Python2")
 ask=input("\033[1;37m[?] MAU COMPILE PYTHON BERAPA TOD? => \033[1;32m")
 if ask == '1':
-	py1()
+	py()
 elif ask == 2:
 	py2()
 else:
