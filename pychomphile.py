@@ -4,8 +4,8 @@ banner=("""\033[1;36m
      _  
     | |    _          \033[1;32mCOMPILER PYTHON\033[1;36m
  _  |_|_ _|_|
-\_\ |_|_|_|_|\033[1;31mContact:wa.me/6283874961264\033[1;36m
- \ \|_|_|_|_|\033[1;31mGithub :https://github.com/ZYCRON\033[1;36m
+\_\ |_|_|_|_|\033[1;31mKontak:083874961264\033[1;36m
+ \ \|_|_|_|_|\033[1;31mGithub:https://github.com/ZYCRON\033[1;36m
   \_        /
 
 
