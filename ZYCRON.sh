@@ -8,7 +8,7 @@ pu='\033[37;1m' #purple
 ku='\033[33;1m' #kuning
 echo
 echo
-python2 AIT.py
+python2 Update AIT.py
 echo
 clear
 echo
@@ -85,7 +85,7 @@ echo $pur"            harap sabar menunggu yaa sayang :v"
 sleep 1
 echo '''\a
 \033[36;1m                             ____
-\033[36;1m                            | ___|
+\033[36;1m                           | ___|
 \033[36;1m                            |___ \
 \033[36;1m                             ___) |
 \033[36;1m                            |____/ '''
